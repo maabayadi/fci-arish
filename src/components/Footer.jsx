@@ -12,7 +12,7 @@ export default function Footer() {
           <h3>Who We Are</h3>
           <ul>
             <li><a href="#">About the University</a></li>
-            <li><a href="#">Ain Shams University</a></li>
+              <li><a href="#">Arish University</a></li>
             <li><a href="#">Faculty of Computers & Information</a></li>
             <li><a href="#">Complaints & Suggestions</a></li>
             <li><a href="#">Your Opinion</a></li>
